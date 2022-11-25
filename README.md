@@ -12,3 +12,7 @@
 	* [Паттерн конденсатору постійної ємності 2](https://github.com/shharw/DToCS/blob/main/lab2/%D0%9A71-6.pat)
 	* [Паттерн аналогової мікросхеми LM7805](https://github.com/shharw/DToCS/blob/main/lab2/LM7805.pat)
 	* [Паттерн постійного резистору](https://github.com/shharw/DToCS/blob/main/lab2/%D0%9C%D0%9B%D0%A2_1.pat)
+* Практична робота №3:
+	* [Схема](https://github.com/shharw/DToCS/blob/main/lab3/time-delay-relay.SCH)
+	* [Нетлист](https://github.com/shharw/DToCS/blob/main/lab3/time-delay-relay.net)
+	* [Лог файл верифікації схеми](https://github.com/shharw/DToCS/blob/main/lab3/Shevchuk.erc)
