@@ -19,4 +19,5 @@
 * Практична робота №4:
 	* [Плата](https://github.com/shharw/DToCS/blob/main/lab4/board.PCB)
 	* [Лог файл верифікації схеми](https://github.com/shharw/DToCS/blob/main/lab4/board.drc)
-	* ![Board](https://github.com/shharw/DToCS/blob/main/lab4/board-img.PNG)
+	* Скрін плати: 
+		![Board](https://github.com/shharw/DToCS/blob/main/lab4/board-img.PNG)
