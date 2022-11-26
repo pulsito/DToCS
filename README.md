@@ -16,3 +16,7 @@
 	* [Схема](https://github.com/shharw/DToCS/blob/main/lab3/time-delay-relay.SCH)
 	* [Нетлист](https://github.com/shharw/DToCS/blob/main/lab3/time-delay-relay.net)
 	* [Лог файл верифікації схеми](https://github.com/shharw/DToCS/blob/main/lab3/time-delay-relay.erc)
+* Практична робота №4:
+	* [Плата](https://github.com/shharw/DToCS/blob/main/lab4/board.PCB)
+	* [Лог файл верифікації схеми](https://github.com/shharw/DToCS/blob/main/lab4/board.drc)
+	* ![Board](https://github.com/shharw/DToCS/blob/main/lab4/board-img.PNG)
