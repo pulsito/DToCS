@@ -20,4 +20,4 @@
 	* [Плата](https://github.com/shharw/DToCS/blob/main/lab4/board.PCB)
 	* [Лог файл верифікації схеми](https://github.com/shharw/DToCS/blob/main/lab4/board.drc)
 	* Скрін плати: 
-		![Board](https://github.com/shharw/DToCS/blob/main/lab4/board-img.PNG)
+	⋅⋅⋅ ![Board](https://github.com/shharw/DToCS/blob/main/lab4/board-img.PNG)
