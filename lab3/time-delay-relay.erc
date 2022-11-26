@@ -2,7 +2,7 @@ P-CAD Electrical Rules Check Report
 
 ======================================================================
 
-C:\Users\iracu\OneDrive\Рабочий стол\Shevchuk.erc:
+D:\Новая папка\Универ\DToCS\lab3\time-delay-relay.erc:
 
 ERC Report Options:
 -------------------
@@ -35,14 +35,14 @@ NO NODE NETS:
 
 ELECTRICAL RULES:
 
-Warning 1 -- Net NET00011 has no input pins
-Warning 2 -- Net NET00011 has no output pins
-Warning 3 -- Net NET00002 has no input pins
-Warning 4 -- Net NET00002 has no output pins
-Warning 5 -- Net NET00003 has no input pins
-Warning 6 -- Net NET00003 has no output pins
-Warning 7 -- Net NET00012 has no input pins
-Warning 8 -- Net NET00012 has no output pins
+Warning 1 -- Net NET00001 has no input pins
+Warning 2 -- Net NET00001 has no output pins
+Warning 3 -- Net NET00011 has no input pins
+Warning 4 -- Net NET00011 has no output pins
+Warning 5 -- Net NET00002 has no input pins
+Warning 6 -- Net NET00002 has no output pins
+Warning 7 -- Net NET00003 has no input pins
+Warning 8 -- Net NET00003 has no output pins
 Warning 9 -- Net NET00005 has no input pins
 Warning 10 -- Net NET00005 has no output pins
 Warning 11 -- Net +5B has no input pins
@@ -63,7 +63,7 @@ UNCONNECTED PINS:
 
 ----------------------------------------------------------------------
 
-25-Nov-22  17:38                                            Page    1
+26-Nov-22  10:29                                            Page    1
 
 P-CAD Electrical Rules Check Report
 
@@ -129,7 +129,7 @@ Unconnected Pin:
 
 ----------------------------------------------------------------------
 
-25-Nov-22  17:38                                            Page    2
+26-Nov-22  10:29                                            Page    2
 
 P-CAD Electrical Rules Check Report
 
@@ -194,5 +194,5 @@ Hierarchy:
 
 ----------------------------------------------------------------------
 
-25-Nov-22  17:38                                            Page    3
+26-Nov-22  10:29                                            Page    3
 
