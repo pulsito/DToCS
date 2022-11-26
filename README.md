@@ -15,4 +15,4 @@
 * Практична робота №3:
 	* [Схема](https://github.com/shharw/DToCS/blob/main/lab3/time-delay-relay.SCH)
 	* [Нетлист](https://github.com/shharw/DToCS/blob/main/lab3/time-delay-relay.net)
-	* [Лог файл верифікації схеми](https://github.com/shharw/DToCS/blob/main/lab3/Shevchuk.erc)
+	* [Лог файл верифікації схеми](https://github.com/shharw/DToCS/blob/main/lab3/time-delay-relay.erc)
