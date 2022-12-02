@@ -1,0 +1,54 @@
+PCAD Importer Log
+Project : time-delay-relay.PrjPcb
+
+Section : D:\Новая папка\Универ\DToCS\lab3\time-delay-relay.SCH
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 149
+        Warning - 1 : Skipping Token defaultPinDes On Line 157
+        Warning - 1 : Skipping Token defaultPinDes On Line 173
+        Warning - 1 : Skipping Token defaultPinDes On Line 181
+        Warning - 1 : Skipping Token defaultPinDes On Line 189
+        Warning - 1 : Skipping Token defaultPinDes On Line 245
+        Warning - 1 : Skipping Token defaultPinDes On Line 253
+        Warning - 1 : Skipping Token defaultPinDes On Line 276
+        Warning - 1 : Skipping Token defaultPinDes On Line 284
+        Warning - 1 : Skipping Token defaultPinDes On Line 306
+        Warning - 1 : Skipping Token defaultPinDes On Line 314
+        Warning - 1 : Skipping Token defaultPinDes On Line 378
+        Warning - 1 : Skipping Token defaultPinDes On Line 386
+        Warning - 1 : Skipping Token defaultPinDes On Line 432
+        Warning - 1 : Skipping Token defaultPinDes On Line 440
+        Warning - 1 : Skipping Token defaultPinDes On Line 448
+        Warning - 1 : Skipping Token defaultPinDes On Line 472
+        Warning - 1 : Skipping Token defaultPinDes On Line 480
+        Warning - 1 : Skipping Token defaultPinDes On Line 488
+        Warning - 1 : Skipping Token defaultPinDes On Line 496
+        Warning - 1 : Skipping Token defaultPinDes On Line 504
+        Warning - 1 : Skipping Token defaultPinDes On Line 512
+        Warning - 1 : Skipping Token defaultPinDes On Line 520
+        Warning - 1 : Skipping Token defaultPinDes On Line 528
+        Warning - 1 : Skipping Token gridDfns On Line 945
+        Warning - 1 : Skipping Token refPointSize On Line 968
+        Warning - 1 : Skipping Token infoPointSize On Line 969
+        Warning - 1 : Skipping Token junctionSize On Line 970
+        Warning - 1 : Skipping Token refPointSizePrint On Line 971
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 972
+        Warning - 1 : Skipping Token junctionSizePrint On Line 973
+        Warning - 1 : Skipping Token PrintRegion On Line 1152
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 1156
+        Warning - 1 : Skipping Token ecoState On Line 1171
+        Warning - 1 : Skipping Token currentTextStyle On Line 1172
+        Warning - 1 : Skipping Token reportSettings On Line 1175
+    EndSection
+
+    Section : Generating SCH Library - time-delay-relay.SchLib
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+        Warning : Add Power Object for Pin Name [+5B] at location [9881.87mil : 1968.5mil]
+        Warning : Add Power Object for Pin Name [+5B] at location [9881.87mil : 5826.76mil]
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection

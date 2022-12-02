@@ -1,0 +1,458 @@
+PCAD Importer Log
+Project : LM.LibPkg
+
+Section : D:\PCAD-Libs\LM.lib
+    Section : PCB Library - LM.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 501
+            Warning - 1 : Skipping Token defaultPinDes On Line 502
+            Warning - 1 : Skipping Token defaultPinDes On Line 503
+            Warning - 1 : Skipping Token defaultPinDes On Line 566
+            Warning - 1 : Skipping Token defaultPinDes On Line 567
+            Warning - 1 : Skipping Token defaultPinDes On Line 568
+            Warning - 1 : Skipping Token defaultPinDes On Line 569
+            Warning - 1 : Skipping Token defaultPinDes On Line 570
+            Warning - 1 : Skipping Token defaultPinDes On Line 571
+            Warning - 1 : Skipping Token defaultPinDes On Line 959
+            Warning - 1 : Skipping Token defaultPinDes On Line 960
+            Warning - 1 : Skipping Token defaultPinDes On Line 961
+            Warning - 1 : Skipping Token defaultPinDes On Line 962
+            Warning - 1 : Skipping Token defaultPinDes On Line 963
+            Warning - 1 : Skipping Token defaultPinDes On Line 964
+            Warning - 1 : Skipping Token defaultPinDes On Line 965
+            Warning - 1 : Skipping Token defaultPinDes On Line 966
+            Warning - 1 : Skipping Token defaultPinDes On Line 1055
+            Warning - 1 : Skipping Token defaultPinDes On Line 1056
+            Warning - 1 : Skipping Token defaultPinDes On Line 1057
+            Warning - 1 : Skipping Token defaultPinDes On Line 1117
+            Warning - 1 : Skipping Token defaultPinDes On Line 1118
+            Warning - 1 : Skipping Token defaultPinDes On Line 1119
+            Warning - 1 : Skipping Token defaultPinDes On Line 1149
+            Warning - 1 : Skipping Token defaultPinDes On Line 1150
+            Warning - 1 : Skipping Token defaultPinDes On Line 1151
+            Warning - 1 : Skipping Token defaultPinDes On Line 1152
+            Warning - 1 : Skipping Token defaultPinDes On Line 1153
+            Warning - 1 : Skipping Token defaultPinDes On Line 1154
+            Warning - 1 : Skipping Token defaultPinDes On Line 1155
+            Warning - 1 : Skipping Token defaultPinDes On Line 1156
+            Warning - 1 : Skipping Token defaultPinDes On Line 1157
+            Warning - 1 : Skipping Token defaultPinDes On Line 1158
+            Warning - 1 : Skipping Token defaultPinDes On Line 1159
+            Warning - 1 : Skipping Token defaultPinDes On Line 1160
+            Warning - 1 : Skipping Token defaultPinDes On Line 1161
+            Warning - 1 : Skipping Token defaultPinDes On Line 1162
+            Warning - 1 : Skipping Token defaultPinDes On Line 1234
+            Warning - 1 : Skipping Token defaultPinDes On Line 1235
+            Warning - 1 : Skipping Token defaultPinDes On Line 1236
+            Warning - 1 : Skipping Token defaultPinDes On Line 1237
+            Warning - 1 : Skipping Token defaultPinDes On Line 1238
+            Warning - 1 : Skipping Token defaultPinDes On Line 1239
+            Warning - 1 : Skipping Token defaultPinDes On Line 1240
+            Warning - 1 : Skipping Token defaultPinDes On Line 1241
+            Warning - 1 : Skipping Token defaultPinDes On Line 1242
+            Warning - 1 : Skipping Token defaultPinDes On Line 1243
+            Warning - 1 : Skipping Token defaultPinDes On Line 1244
+            Warning - 1 : Skipping Token defaultPinDes On Line 1245
+            Warning - 1 : Skipping Token defaultPinDes On Line 1246
+            Warning - 1 : Skipping Token defaultPinDes On Line 1247
+            Warning - 1 : Skipping Token defaultPinDes On Line 1248
+            Warning - 1 : Skipping Token defaultPinDes On Line 1249
+            Warning - 1 : Skipping Token defaultPinDes On Line 1325
+            Warning - 1 : Skipping Token defaultPinDes On Line 1326
+            Warning - 1 : Skipping Token defaultPinDes On Line 1327
+            Warning - 1 : Skipping Token defaultPinDes On Line 1328
+            Warning - 1 : Skipping Token defaultPinDes On Line 1368
+            Warning - 1 : Skipping Token defaultPinDes On Line 1369
+            Warning - 1 : Skipping Token defaultPinDes On Line 1370
+            Warning - 1 : Skipping Token defaultPinDes On Line 1399
+            Warning - 1 : Skipping Token defaultPinDes On Line 1400
+            Warning - 1 : Skipping Token defaultPinDes On Line 1401
+            Warning - 1 : Skipping Token defaultPinDes On Line 1402
+            Warning - 1 : Skipping Token defaultPinDes On Line 1491
+            Warning - 1 : Skipping Token defaultPinDes On Line 1492
+            Warning - 1 : Skipping Token defaultPinDes On Line 1493
+            Warning - 1 : Skipping Token defaultPinDes On Line 1494
+            Warning - 1 : Skipping Token defaultPinDes On Line 1576
+            Warning - 1 : Skipping Token defaultPinDes On Line 1577
+            Warning - 1 : Skipping Token defaultPinDes On Line 1578
+            Warning - 1 : Skipping Token defaultPinDes On Line 1579
+            Warning - 1 : Skipping Token defaultPinDes On Line 1657
+            Warning - 1 : Skipping Token defaultPinDes On Line 1658
+            Warning - 1 : Skipping Token defaultPinDes On Line 1659
+            Warning - 1 : Skipping Token defaultPinDes On Line 1694
+            Warning - 1 : Skipping Token defaultPinDes On Line 1695
+            Warning - 1 : Skipping Token defaultPinDes On Line 1696
+            Warning - 1 : Skipping Token defaultPinDes On Line 1697
+            Warning - 1 : Skipping Token defaultPinDes On Line 1795
+            Warning - 1 : Skipping Token defaultPinDes On Line 1796
+            Warning - 1 : Skipping Token defaultPinDes On Line 1797
+            Warning - 1 : Skipping Token defaultPinDes On Line 1798
+            Warning - 1 : Skipping Token defaultPinDes On Line 1876
+            Warning - 1 : Skipping Token defaultPinDes On Line 1877
+            Warning - 1 : Skipping Token defaultPinDes On Line 1878
+            Warning - 1 : Skipping Token defaultPinDes On Line 1956
+            Warning - 1 : Skipping Token defaultPinDes On Line 1957
+            Warning - 1 : Skipping Token defaultPinDes On Line 1958
+            Warning - 1 : Skipping Token defaultPinDes On Line 1959
+            Warning - 1 : Skipping Token defaultPinDes On Line 1960
+            Warning - 1 : Skipping Token defaultPinDes On Line 1961
+            Warning - 1 : Skipping Token defaultPinDes On Line 2013
+            Warning - 1 : Skipping Token defaultPinDes On Line 2014
+            Warning - 1 : Skipping Token defaultPinDes On Line 2015
+            Warning - 1 : Skipping Token defaultPinDes On Line 2016
+            Warning - 1 : Skipping Token defaultPinDes On Line 2017
+            Warning - 1 : Skipping Token defaultPinDes On Line 2018
+            Warning - 1 : Skipping Token defaultPinDes On Line 2019
+            Warning - 1 : Skipping Token defaultPinDes On Line 2020
+            Warning - 1 : Skipping Token defaultPinDes On Line 2021
+            Warning - 1 : Skipping Token defaultPinDes On Line 2022
+            Warning - 1 : Skipping Token defaultPinDes On Line 2023
+            Warning - 1 : Skipping Token defaultPinDes On Line 2024
+            Warning - 1 : Skipping Token defaultPinDes On Line 2025
+            Warning - 1 : Skipping Token defaultPinDes On Line 2026
+            Warning - 1 : Skipping Token LM2576 On Line 2041
+            Warning - 1 : Skipping Token LM2596 On Line 2111
+            Warning - 1 : Skipping Token LM2662 On Line 2181
+            Warning - 1 : Skipping Token LM317T On Line 2265
+            Warning - 1 : Skipping Token LM4871 On Line 2309
+            Warning - 1 : Skipping Token LM555 On Line 2393
+            Warning - 1 : Skipping Token OPER-AMP On Line 2477
+            Warning - 1 : Skipping Token OPER-AMP-8PIN On Line 2533
+            Warning - 1 : Skipping Token OPER-AMP-8PIN_1 On Line 2637
+            Warning - 1 : Skipping Token STU-3PIN On Line 2741
+            Warning - 1 : Skipping Token STU-4PIN On Line 2785
+            Warning - 1 : Skipping Token attachedSymbol On Line 2851
+            Warning - 1 : Skipping Token attachedSymbol On Line 2874
+            Warning - 1 : Skipping Token attachedSymbol On Line 2897
+            Warning - 1 : Skipping Token attachedSymbol On Line 2920
+            Warning - 1 : Skipping Token attachedSymbol On Line 2943
+            Warning - 1 : Skipping Token attachedSymbol On Line 2966
+            Warning - 1 : Skipping Token attachedSymbol On Line 2989
+            Warning - 1 : Skipping Token attachedSymbol On Line 3012
+            Warning - 1 : Skipping Token attachedSymbol On Line 3035
+            Warning - 1 : Skipping Token attachedSymbol On Line 3058
+            Warning - 1 : Skipping Token attachedSymbol On Line 3081
+            Warning - 1 : Skipping Token attachedSymbol On Line 3104
+            Warning - 1 : Skipping Token attachedSymbol On Line 3127
+            Warning - 1 : Skipping Token attachedSymbol On Line 3151
+            Warning - 1 : Skipping Token attachedSymbol On Line 3174
+            Warning - 1 : Skipping Token attachedSymbol On Line 3197
+            Warning - 1 : Skipping Token attachedSymbol On Line 3221
+            Warning - 1 : Skipping Token attachedSymbol On Line 3245
+            Warning - 1 : Skipping Token attachedSymbol On Line 3269
+            Warning - 1 : Skipping Token attachedSymbol On Line 3293
+            Warning - 1 : Skipping Token attachedSymbol On Line 3317
+            Warning - 1 : Skipping Token attachedSymbol On Line 3341
+            Warning - 1 : Skipping Token attachedSymbol On Line 3365
+            Warning - 1 : Skipping Token attachedSymbol On Line 3389
+            Warning - 1 : Skipping Token attachedSymbol On Line 3413
+            Warning - 1 : Skipping Token attachedSymbol On Line 3437
+            Warning - 1 : Skipping Token attachedSymbol On Line 3461
+            Warning - 1 : Skipping Token attachedSymbol On Line 3485
+            Warning - 1 : Skipping Token attachedSymbol On Line 3509
+            Warning - 1 : Skipping Token attachedSymbol On Line 3538
+            Warning - 1 : Skipping Token attachedSymbol On Line 3539
+            Warning - 1 : Skipping Token attachedSymbol On Line 3572
+            Warning - 1 : Skipping Token attachedSymbol On Line 3573
+            Warning - 1 : Skipping Token attachedSymbol On Line 3606
+            Warning - 1 : Skipping Token attachedSymbol On Line 3639
+            Warning - 1 : Skipping Token attachedSymbol On Line 3670
+            Warning - 1 : Skipping Token attachedSymbol On Line 3699
+            Warning - 1 : Skipping Token attachedSymbol On Line 3730
+            Warning - 1 : Skipping Token attachedSymbol On Line 3731
+            Warning - 1 : Skipping Token attachedSymbol On Line 3762
+            Warning - 1 : Skipping Token attachedSymbol On Line 3793
+            Warning - 1 : Skipping Token attachedSymbol On Line 3826
+            Warning - 1 : Skipping Token attachedSymbol On Line 3865
+            Warning - 1 : Skipping Token attachedSymbol On Line 3866
+            Warning - 1 : Skipping Token attachedSymbol On Line 3867
+            Warning - 1 : Skipping Token attachedSymbol On Line 3868
+            Warning - 1 : Skipping Token attachedSymbol On Line 3901
+            Warning - 1 : Skipping Token attachedSymbol On Line 3925
+            Warning - 1 : Skipping Token attachedSymbol On Line 3950
+            Warning - 1 : Skipping Token attachedSymbol On Line 3979
+            Warning - 1 : Skipping Token attachedSymbol On Line 4012
+            Warning - 1 : Skipping Token attachedSymbol On Line 4040
+            Warning - 1 : Skipping Token attachedSymbol On Line 4063
+            Warning - 1 : Skipping Token attachedSymbol On Line 4087
+            Warning - 1 : Skipping Token attachedSymbol On Line 4122
+            Warning - 1 : Skipping Token attachedSymbol On Line 4123
+            Warning - 1 : Skipping Token attachedSymbol On Line 4124
+            Warning - 1 : Skipping Token attachedSymbol On Line 4125
+            Warning - 1 : Skipping Token attachedSymbol On Line 4170
+            Warning - 1 : Skipping Token attachedSymbol On Line 4171
+            Warning - 1 : Skipping Token attachedSymbol On Line 4172
+            Warning - 1 : Skipping Token attachedSymbol On Line 4173
+            Warning - 1 : Skipping Token attachedSymbol On Line 4218
+            Warning - 1 : Skipping Token attachedSymbol On Line 4219
+            Warning - 1 : Skipping Token attachedSymbol On Line 4220
+            Warning - 1 : Skipping Token attachedSymbol On Line 4221
+            Warning - 1 : Skipping Token attachedSymbol On Line 4266
+            Warning - 1 : Skipping Token attachedSymbol On Line 4267
+            Warning - 1 : Skipping Token attachedSymbol On Line 4268
+            Warning - 1 : Skipping Token attachedSymbol On Line 4269
+            Warning - 1 : Skipping Token attachedSymbol On Line 4314
+            Warning - 1 : Skipping Token attachedSymbol On Line 4315
+            Warning - 1 : Skipping Token attachedSymbol On Line 4316
+            Warning - 1 : Skipping Token attachedSymbol On Line 4317
+            Warning - 1 : Skipping Token attachedSymbol On Line 4362
+            Warning - 1 : Skipping Token attachedSymbol On Line 4363
+            Warning - 1 : Skipping Token attachedSymbol On Line 4364
+            Warning - 1 : Skipping Token attachedSymbol On Line 4365
+            Warning - 1 : Skipping Token attachedSymbol On Line 4410
+            Warning - 1 : Skipping Token attachedSymbol On Line 4411
+            Warning - 1 : Skipping Token attachedSymbol On Line 4412
+            Warning - 1 : Skipping Token attachedSymbol On Line 4413
+            Warning - 1 : Skipping Token attachedSymbol On Line 4452
+            Warning - 1 : Skipping Token attachedSymbol On Line 4453
+            Warning - 1 : Skipping Token attachedSymbol On Line 4486
+            Warning - 1 : Skipping Token attachedSymbol On Line 4487
+            Warning - 1 : Skipping Token attachedSymbol On Line 4520
+            Warning - 1 : Skipping Token attachedSymbol On Line 4553
+            Warning - 1 : Skipping Token attachedSymbol On Line 4586
+            Warning - 1 : Skipping Token attachedSymbol On Line 4587
+            Warning - 1 : Skipping Token attachedSymbol On Line 4620
+            Warning - 1 : Skipping Token attachedSymbol On Line 4621
+            Warning - 1 : Skipping Token attachedSymbol On Line 4654
+            Warning - 1 : Skipping Token attachedSymbol On Line 4655
+            Warning - 1 : Skipping Token attachedSymbol On Line 4688
+            Warning - 1 : Skipping Token attachedSymbol On Line 4689
+            Warning - 1 : Skipping Token attachedSymbol On Line 4722
+            Warning - 1 : Skipping Token attachedSymbol On Line 4723
+            Warning - 1 : Skipping Token attachedSymbol On Line 4755
+            Warning - 1 : Skipping Token attachedSymbol On Line 4788
+            Warning - 1 : Skipping Token attachedSymbol On Line 4815
+            Warning - 1 : Skipping Token attachedSymbol On Line 4837
+            Warning - 1 : Skipping Token attachedSymbol On Line 4859
+            Warning - 1 : Skipping Token attachedSymbol On Line 4881
+            Warning - 1 : Skipping Token attachedSymbol On Line 4903
+            Warning - 1 : Skipping Token attachedSymbol On Line 4925
+            Warning - 1 : Skipping Token attachedSymbol On Line 4947
+            Warning - 1 : Skipping Token attachedSymbol On Line 4969
+            Warning - 1 : Skipping Token attachedSymbol On Line 4991
+            Warning - 1 : Skipping Token attachedSymbol On Line 5013
+            Warning - 1 : Skipping Token attachedSymbol On Line 5035
+            Warning - 1 : Skipping Token attachedSymbol On Line 5057
+            Warning - 1 : Skipping Token attachedSymbol On Line 5079
+            Warning - 1 : Skipping Token attachedSymbol On Line 5101
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [KT26 (TO-92)][Primary] associated with PCAD Component [LM2931A] has been renamed to PCB FootPrint [KT26 (TO-92)_LM2931A(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7805ACT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+        EndSection
+    EndSection
+
+    Section : SCH Library - LM.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 34
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token padStyleDef On Line 56
+            Warning - 1 : Skipping Token padStyleDef On Line 67
+            Warning - 1 : Skipping Token padStyleDef On Line 77
+            Warning - 1 : Skipping Token padStyleDef On Line 87
+            Warning - 1 : Skipping Token padStyleDef On Line 98
+            Warning - 1 : Skipping Token padStyleDef On Line 109
+            Warning - 1 : Skipping Token padStyleDef On Line 120
+            Warning - 1 : Skipping Token padStyleDef On Line 131
+            Warning - 1 : Skipping Token padStyleDef On Line 142
+            Warning - 1 : Skipping Token padStyleDef On Line 153
+            Warning - 1 : Skipping Token padStyleDef On Line 164
+            Warning - 1 : Skipping Token padStyleDef On Line 174
+            Warning - 1 : Skipping Token padStyleDef On Line 184
+            Warning - 1 : Skipping Token padStyleDef On Line 194
+            Warning - 1 : Skipping Token padStyleDef On Line 204
+            Warning - 1 : Skipping Token padStyleDef On Line 215
+            Warning - 1 : Skipping Token padStyleDef On Line 226
+            Warning - 1 : Skipping Token padStyleDef On Line 236
+            Warning - 1 : Skipping Token padStyleDef On Line 247
+            Warning - 1 : Skipping Token padStyleDef On Line 258
+            Warning - 1 : Skipping Token padStyleDef On Line 269
+            Warning - 1 : Skipping Token padStyleDef On Line 280
+            Warning - 1 : Skipping Token padStyleDef On Line 291
+            Warning - 1 : Skipping Token viaStyleDef On Line 302
+            Warning - 1 : Skipping Token multiLayer On Line 500
+            Warning - 1 : Skipping Token layerContents On Line 505
+            Warning - 1 : Skipping Token layerContents On Line 516
+            Warning - 1 : Skipping Token multiLayer On Line 565
+            Warning - 1 : Skipping Token layerContents On Line 573
+            Warning - 1 : Skipping Token layerContents On Line 582
+            Warning - 1 : Skipping Token multiLayer On Line 622
+            Warning - 1 : Skipping Token layerContents On Line 638
+            Warning - 1 : Skipping Token layerContents On Line 654
+            Warning - 1 : Skipping Token multiLayer On Line 782
+            Warning - 1 : Skipping Token layerContents On Line 800
+            Warning - 1 : Skipping Token layerContents On Line 816
+            Warning - 1 : Skipping Token multiLayer On Line 958
+            Warning - 1 : Skipping Token layerContents On Line 968
+            Warning - 1 : Skipping Token layerContents On Line 979
+            Warning - 1 : Skipping Token multiLayer On Line 1054
+            Warning - 1 : Skipping Token layerContents On Line 1059
+            Warning - 1 : Skipping Token layerContents On Line 1070
+            Warning - 1 : Skipping Token multiLayer On Line 1116
+            Warning - 1 : Skipping Token layerContents On Line 1121
+            Warning - 1 : Skipping Token layerContents On Line 1132
+            Warning - 1 : Skipping Token multiLayer On Line 1148
+            Warning - 1 : Skipping Token layerContents On Line 1164
+            Warning - 1 : Skipping Token layerContents On Line 1175
+            Warning - 1 : Skipping Token multiLayer On Line 1233
+            Warning - 1 : Skipping Token layerContents On Line 1253
+            Warning - 1 : Skipping Token layerContents On Line 1266
+            Warning - 1 : Skipping Token multiLayer On Line 1282
+            Warning - 1 : Skipping Token layerContents On Line 1292
+            Warning - 1 : Skipping Token layerContents On Line 1303
+            Warning - 1 : Skipping Token multiLayer On Line 1324
+            Warning - 1 : Skipping Token layerContents On Line 1332
+            Warning - 1 : Skipping Token layerContents On Line 1341
+            Warning - 1 : Skipping Token multiLayer On Line 1367
+            Warning - 1 : Skipping Token layerContents On Line 1372
+            Warning - 1 : Skipping Token layerContents On Line 1383
+            Warning - 1 : Skipping Token multiLayer On Line 1398
+            Warning - 1 : Skipping Token layerContents On Line 1404
+            Warning - 1 : Skipping Token layerContents On Line 1412
+            Warning - 1 : Skipping Token layerContents On Line 1420
+            Warning - 1 : Skipping Token layerContents On Line 1432
+            Warning - 1 : Skipping Token multiLayer On Line 1490
+            Warning - 1 : Skipping Token layerContents On Line 1496
+            Warning - 1 : Skipping Token layerContents On Line 1509
+            Warning - 1 : Skipping Token multiLayer On Line 1575
+            Warning - 1 : Skipping Token layerContents On Line 1581
+            Warning - 1 : Skipping Token layerContents On Line 1641
+            Warning - 1 : Skipping Token multiLayer On Line 1656
+            Warning - 1 : Skipping Token layerContents On Line 1661
+            Warning - 1 : Skipping Token layerContents On Line 1676
+            Warning - 1 : Skipping Token multiLayer On Line 1693
+            Warning - 1 : Skipping Token layerContents On Line 1699
+            Warning - 1 : Skipping Token layerContents On Line 1707
+            Warning - 1 : Skipping Token layerContents On Line 1715
+            Warning - 1 : Skipping Token layerContents On Line 1728
+            Warning - 1 : Skipping Token multiLayer On Line 1794
+            Warning - 1 : Skipping Token layerContents On Line 1800
+            Warning - 1 : Skipping Token layerContents On Line 1860
+            Warning - 1 : Skipping Token multiLayer On Line 1875
+            Warning - 1 : Skipping Token layerContents On Line 1880
+            Warning - 1 : Skipping Token layerContents On Line 1895
+            Warning - 1 : Skipping Token multiLayer On Line 1912
+            Warning - 1 : Skipping Token layerContents On Line 1917
+            Warning - 1 : Skipping Token layerContents On Line 1926
+            Warning - 1 : Skipping Token multiLayer On Line 1955
+            Warning - 1 : Skipping Token layerContents On Line 1963
+            Warning - 1 : Skipping Token layerContents On Line 1972
+            Warning - 1 : Skipping Token multiLayer On Line 2012
+            Warning - 1 : Skipping Token layerContents On Line 2028
+            Warning - 1 : Skipping Token defaultPinDes On Line 2049
+            Warning - 1 : Skipping Token defaultPinDes On Line 2057
+            Warning - 1 : Skipping Token defaultPinDes On Line 2065
+            Warning - 1 : Skipping Token defaultPinDes On Line 2073
+            Warning - 1 : Skipping Token defaultPinDes On Line 2081
+            Warning - 1 : Skipping Token defaultPinDes On Line 2089
+            Warning - 1 : Skipping Token defaultPinDes On Line 2119
+            Warning - 1 : Skipping Token defaultPinDes On Line 2127
+            Warning - 1 : Skipping Token defaultPinDes On Line 2135
+            Warning - 1 : Skipping Token defaultPinDes On Line 2143
+            Warning - 1 : Skipping Token defaultPinDes On Line 2151
+            Warning - 1 : Skipping Token defaultPinDes On Line 2159
+            Warning - 1 : Skipping Token defaultPinDes On Line 2189
+            Warning - 1 : Skipping Token defaultPinDes On Line 2197
+            Warning - 1 : Skipping Token defaultPinDes On Line 2205
+            Warning - 1 : Skipping Token defaultPinDes On Line 2213
+            Warning - 1 : Skipping Token defaultPinDes On Line 2221
+            Warning - 1 : Skipping Token defaultPinDes On Line 2229
+            Warning - 1 : Skipping Token defaultPinDes On Line 2237
+            Warning - 1 : Skipping Token defaultPinDes On Line 2245
+            Warning - 1 : Skipping Token defaultPinDes On Line 2273
+            Warning - 1 : Skipping Token defaultPinDes On Line 2281
+            Warning - 1 : Skipping Token defaultPinDes On Line 2289
+            Warning - 1 : Skipping Token defaultPinDes On Line 2317
+            Warning - 1 : Skipping Token defaultPinDes On Line 2325
+            Warning - 1 : Skipping Token defaultPinDes On Line 2333
+            Warning - 1 : Skipping Token defaultPinDes On Line 2341
+            Warning - 1 : Skipping Token defaultPinDes On Line 2349
+            Warning - 1 : Skipping Token defaultPinDes On Line 2357
+            Warning - 1 : Skipping Token defaultPinDes On Line 2365
+            Warning - 1 : Skipping Token defaultPinDes On Line 2373
+            Warning - 1 : Skipping Token defaultPinDes On Line 2401
+            Warning - 1 : Skipping Token defaultPinDes On Line 2409
+            Warning - 1 : Skipping Token defaultPinDes On Line 2417
+            Warning - 1 : Skipping Token defaultPinDes On Line 2425
+            Warning - 1 : Skipping Token defaultPinDes On Line 2433
+            Warning - 1 : Skipping Token defaultPinDes On Line 2441
+            Warning - 1 : Skipping Token defaultPinDes On Line 2449
+            Warning - 1 : Skipping Token defaultPinDes On Line 2457
+            Warning - 1 : Skipping Token defaultPinDes On Line 2486
+            Warning - 1 : Skipping Token defaultPinDes On Line 2494
+            Warning - 1 : Skipping Token defaultPinDes On Line 2502
+            Warning - 1 : Skipping Token defaultPinDes On Line 2541
+            Warning - 1 : Skipping Token defaultPinDes On Line 2550
+            Warning - 1 : Skipping Token defaultPinDes On Line 2558
+            Warning - 1 : Skipping Token defaultPinDes On Line 2566
+            Warning - 1 : Skipping Token defaultPinDes On Line 2574
+            Warning - 1 : Skipping Token defaultPinDes On Line 2582
+            Warning - 1 : Skipping Token defaultPinDes On Line 2590
+            Warning - 1 : Skipping Token defaultPinDes On Line 2598
+            Warning - 1 : Skipping Token defaultPinDes On Line 2645
+            Warning - 1 : Skipping Token defaultPinDes On Line 2654
+            Warning - 1 : Skipping Token defaultPinDes On Line 2662
+            Warning - 1 : Skipping Token defaultPinDes On Line 2670
+            Warning - 1 : Skipping Token defaultPinDes On Line 2678
+            Warning - 1 : Skipping Token defaultPinDes On Line 2686
+            Warning - 1 : Skipping Token defaultPinDes On Line 2694
+            Warning - 1 : Skipping Token defaultPinDes On Line 2702
+            Warning - 1 : Skipping Token defaultPinDes On Line 2749
+            Warning - 1 : Skipping Token defaultPinDes On Line 2757
+            Warning - 1 : Skipping Token defaultPinDes On Line 2765
+            Warning - 1 : Skipping Token defaultPinDes On Line 2793
+            Warning - 1 : Skipping Token defaultPinDes On Line 2801
+            Warning - 1 : Skipping Token defaultPinDes On Line 2809
+            Warning - 1 : Skipping Token defaultPinDes On Line 2817
+        EndSection
+
+        Section : Generating SCH Library - LM.SchLib
+            Warning - 0 : PCAD Pattern Graphics [KT26 (TO-92)][Primary] associated with PCAD Component [LM2931A] has been renamed to PCB FootPrint [KT26 (TO-92)_LM2931A(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7805ACT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7805ACT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7805ACT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7805CT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7805CT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7805CT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7806CT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7806CT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7806CT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7808CT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7808CT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7808CT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7809ACT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7809ACT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7809ACT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7809CT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7809CT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7809CT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7810ACT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7810ACT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7810ACT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7810CT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7810CT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7810CT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7812ACT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7812ACT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7812ACT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7812CT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7812CT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7812CT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7815ACT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7815ACT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7815ACT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7815CT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7815CT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7815CT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7818CT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7818CT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7818CT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [LM7824CT] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [LM7824CT] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [LM7824CT] has been renamed to PCB FootPrint [TO-220AB_Vert].
+        EndSection
+    EndSection
+EndSection
