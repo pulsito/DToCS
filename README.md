@@ -23,8 +23,8 @@
 	
 	![Board](https://github.com/shharw/DToCS/blob/main/lab4/board-img.PNG)
 * Практична робота №5:
-	* [Плата](https://github.com/shharw/DToCS/blob/main/lab5/Importedboard.PrjPcb)
-	* [Схема]](https://github.com/shharw/DToCS/blob/main/lab5/Importedtime-delay-relay.PrjPcb)
+	* [Плата](https://github.com/shharw/DToCS/tree/main/lab5/Imported%20board.PrjPcb)
+	* [Схема](https://github.com/shharw/DToCS/tree/main/lab5/Imported%20time-delay-relay.PrjPcb)
 	* Скрін плати:
 	
 	![Board](https://github.com/shharw/DToCS/blob/main/lab5/board.PNG)
