@@ -31,3 +31,13 @@
 	* Скрін схеми:
 	
 	![Schema](https://github.com/shharw/DToCS/blob/main/lab5/schema.PNG)
+* Практична робота №6:
+	* [Бібліотека](https://github.com/shharw/DToCS/tree/main/lab6/CommonDevs_Shevchuk.SchLib)
+	* Зміст бібліотеки:
+	
+	![Library](https://github.com/shharw/DToCS/blob/main/lab5/components.PNG)
+	* Скріни компонентів:
+	
+	![Component](https://github.com/shharw/DToCS/blob/main/lab5/1_2.PNG)
+	![Component](https://github.com/shharw/DToCS/blob/main/lab5/3.PNG)
+	![Component](https://github.com/shharw/DToCS/blob/main/lab5/4.PNG)
