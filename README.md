@@ -38,6 +38,6 @@
 	![Library](https://github.com/shharw/DToCS/blob/main/lab6/components.PNG)
 	* Скріни компонентів:
 	
-	![Component](https://github.com/shharw/DToCS/blob/main/lab6/1_2.PNG)![Component](https://github.com/shharw/DToCS/blob/main/lab6/1_2.PNG)
+	![Component](https://github.com/shharw/DToCS/blob/main/lab6/1_2.PNG)	![Component](https://github.com/shharw/DToCS/blob/main/lab6/1_2.PNG)
 	![Component](https://github.com/shharw/DToCS/blob/main/lab6/3.PNG)
 	![Component](https://github.com/shharw/DToCS/blob/main/lab6/4.PNG)
