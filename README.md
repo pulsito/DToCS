@@ -41,3 +41,12 @@
 	![Component](https://github.com/shharw/DToCS/blob/main/lab6/1_2.PNG)	![Component](https://github.com/shharw/DToCS/blob/main/lab6/1_2.PNG)
 	![Component](https://github.com/shharw/DToCS/blob/main/lab6/3.PNG)
 	![Component](https://github.com/shharw/DToCS/blob/main/lab6/4.PNG)
+* Практична робота №7:
+	* [Плата](https://github.com/shharw/DToCS/tree/main/lab7/board.PcbDoc)
+	* Скріни плати:
+	
+	![Board](https://github.com/shharw/DToCS/blob/main/lab7/board_top.PNG)
+	![Board](https://github.com/shharw/DToCS/blob/main/lab7/board_bottom.PNG)
+	* Скрін структури проекту:
+	
+	![Schema](https://github.com/shharw/DToCS/blob/main/lab7/struct.PNG)
