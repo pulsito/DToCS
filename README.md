@@ -50,3 +50,13 @@
 	* Скрін структури проекту:
 	
 	![Schema](https://github.com/shharw/DToCS/blob/main/lab7/struct.PNG)
+* Практична робота №8:
+	* [LM7805](https://github.com/shharw/DToCS/tree/main/lab8/7508.SLDPRT)
+	* Скрін LM7805:
+	
+	![LM7805](https://github.com/shharw/DToCS/blob/main/lab8/lm7805.PNG)
+* Практична робота №9:
+	* [Chip](https://github.com/shharw/DToCS/tree/main/lab9/7400.SLDPRT)
+	* Скрін мікросхеми:
+	
+	![LM7805](https://github.com/shharw/DToCS/blob/main/lab9/chip.JPG)
